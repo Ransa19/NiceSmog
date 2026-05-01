@@ -45,7 +45,7 @@
 ### Шаг 1: Клонирование
 Откройте терминал и скачайте проект:
 ```bash
-git clone [https://github.com/Ransa19/NiceSmog.git](https://github.com/ТВОЙ_НИК_НА_GITHUB/NiceSmog.git)
+git clone [https://github.com/Ransa19/NiceSmog.git](https://github.com/Ransa19/NiceSmog.git)
 cd NiceSmog
 ```
 ### Шаг 2: Установка библиотек
