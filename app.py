@@ -23,7 +23,7 @@ def generate_nice_smog_map():
     ]
 
     #Накладываем тепловую карту (Heatmap)
-    HeatMap(pollution_data, radius=35, blur=20, min_opacity=0.3).add_to(m)
+    HeatMap(pollution_data, radius=40, blur=20, min_opacity=0.4).add_to(m)
 
     #Добавляем интерактивный маркер в проблемной зоне
     folium.Marker(
