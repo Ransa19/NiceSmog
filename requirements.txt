@@ -1,2 +1,2 @@
-folium==0.20.0
+folium==1.0.0
 branca==0.8.2
